@@ -1,8 +1,15 @@
+:root {
+  --primary: #dc5151;
+  --negro: #262626;
+  --blanco: #FFF;
+  --fuente-principal: 'Outfit', sans-serif;
+}
 
 header {
   background-color: #EC3A49;
-  color: white;
   text-align: center;
+  color:var(--blanco);
+  
 }
 header h1 {
   font-family: 'Outfit', sans-serif;
